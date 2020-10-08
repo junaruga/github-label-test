@@ -2,16 +2,18 @@
 
 ## Instructions - FNNDSC
 
-1. ![A link to issue labels](images/github_issues_labels.png "A link to issue labels") or go to https://github.com/FNNDSC/ChRIS_ultron_backEnd/issues/labels .
+1. Go to an issue page on the ChRIS_ultron_backEnd, then Labels - Edit labels link on the right side, or go to https://github.com/FNNDSC/ChRIS_ultron_backEnd/issues/labels directly.
+
+![A link to issue labels](images/github_issues_labels.png "A link to issue labels")
 
 2. You see the following page.
 
 ![issues labels list](images/github_issues_labels.png "issues labels list").
 
-3. Edit "p0: fix - ASAP" label to change it to label name: `priority: urgent`, description: `
+3. Edit the label name: `p0: fix - ASAP` to change it to label name: `priority: urgent`, description: `
 Severity level: 1 - ASAP` with color: red.
-4. Edit "p1: fix if no pending critical task" label to change it to label name: `priority: high`, description: `Severity level: 2` with color orange.
-5. Edit "p2: nice to have" label to change it to label name: `priority: medium`, description: `Severity level: 3` with color: yellow.
+4. Edit the label name: `p1: fix if no pending critical task` to change it to label name: `priority: high`, description: `Severity level: 2` with color orange.
+5. Edit the label name `p2: nice to have` to change it to label name: `priority: medium`, description: `Severity level: 3` with color: yellow.
 6. Click "New Label" to create a label: label name: `priority: low`, description: `Severity level: 4` with color: blue.
 
 You can refer [the color code](https://html-color-codes.info/).
