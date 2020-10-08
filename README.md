@@ -17,6 +17,6 @@
 
 You can refer [the color code](https://html-color-codes.info/).
 
-7. Set the labels priority: urgent/important/low, optionally middle to the necessary issue tickets seeing all the opened tickets on the ChRIS_ultron_backEnd repository. No priority label ticket is okay.
+7. Set the labels priority: urgent/important/low, optionally medium to the necessary issue tickets seeing all the opened tickets on the ChRIS_ultron_backEnd repository. No priority label ticket is okay.
 
 8. After operating the labels on only ChRIS_ultron_backEnd repository for a while, then we can expand the labels to other important repositories.
