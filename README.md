@@ -10,11 +10,10 @@
 
 ![issues labels list](images/github_issues_labels_list.png "issues labels list").
 
-3. Edit the label name: `p0: fix - ASAP` to change it to label name: `priority: urgent`, description: `
-Severity level: 1 - ASAP` with color: red.
+3. Edit the label name: `p0: fix - ASAP` to change it to label name: `priority: urgent`, description: `Severity level: 1 - ASAP` with color: red.
 4. Edit the label name: `p1: fix if no pending critical task` to change it to label name: `priority: high`, description: `Severity level: 2` with color orange.
-5. Edit the label name `p2: nice to have` to change it to label name: `priority: medium`, description: `Severity level: 3` with color: yellow.
-6. Click "New Label" to create a label: label name: `priority: low`, description: `Severity level: 4` with color: blue.
+5. Click "New Label" to create a label: label name: `priority: medium`, description: `Severity level: 3` with color: yellow.
+6. Edit the label name `p2: nice to have` to change it to label name: `priority: low`, description: `Severity level: 4 - Nice to have` with color: blue.
 
 You can refer [the color code](https://html-color-codes.info/).
 
