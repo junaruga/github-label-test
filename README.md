@@ -8,7 +8,7 @@
 
 2. You see the following page.
 
-![issues labels list](images/github_issues_labels.png "issues labels list").
+![issues labels list](images/github_issues_labels_list.png "issues labels list").
 
 3. Edit the label name: `p0: fix - ASAP` to change it to label name: `priority: urgent`, description: `
 Severity level: 1 - ASAP` with color: red.
